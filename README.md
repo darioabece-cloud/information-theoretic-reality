@@ -4,11 +4,11 @@ A theoretical framework proposing that reality fundamentally consists of informa
 
 ## Core Papers
 
-1. **Reality as Computation** - Deriving physics from information axioms
-2. **Universal Fractal Dimensions** - Information optimization in physical systems  
-3. **Emergence of Experience** - How information boundaries create consciousness
-4. **Branch Dynamics** - Self-consistency and observation in computational reality
-5. **Overview** - Accessible introduction to the framework
+1. **Overview: An Information-Theoretic View of Reality** - Accessible introduction to the framework
+2. **Reality as Computation** - Deriving physics from information axioms
+3. **Universal Fractal Dimensions** - Information optimization in physical systems  
+4. **Emergence of Experience** - How information boundaries create consciousness
+5. **Branch Dynamics** - Self-consistency and observation in computational reality 
 
 ## Key Predictions
 
