@@ -27,4 +27,4 @@ Dario Abece (August 2025)
 
 ## License
 
-CC-BY-4.0 - Free to share and adapt with attribution
+MIT License
