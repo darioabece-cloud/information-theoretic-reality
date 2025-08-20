@@ -39,9 +39,9 @@ This framework explores four interconnected themes:
 
 ## Code Examples
 
-- [`fractal_analysis.py`](code/fractal_analysis.py) - 3D fractal dimension calculation
-- [`consciousness_measure.py`](code/consciousness_measure.py) - Ψ_c index computation
-- [`branch_dynamics_sim.py`](code/branch_dynamics_sim.py) - Branch evolution simulation
+- [`fractal-analysis.py`](code/fractal-analysis.py) - 3D fractal dimension calculation
+- [`consciousness-measure.py`](code/consciousness-measure.py) - Ψ_c index computation
+- [`branch-dynamics-sim.py`](code/branch-dynamics-sim.py) - Branch evolution simulation
 
 ## Citation
 
